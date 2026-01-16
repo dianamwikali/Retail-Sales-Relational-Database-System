@@ -7,10 +7,13 @@ This project focuses on the design and implementation of a normalized relational
 
 Objectives
 
--Design a structured retail database to support sales and performance analysis
--Reduce data redundancy through normalization
--Ensure data consistency using relational constraints
--Enable efficient querying and reporting of retail metrics
+Design a structured retail database to support sales and performance analysis
+
+Reduce data redundancy through normalization
+
+Ensure data consistency using relational constraints
+
+Enable efficient querying and reporting of retail metrics
 
 Project Workflow
 
